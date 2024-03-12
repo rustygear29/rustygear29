@@ -8,6 +8,7 @@
   >rustygear29@hotmail.com
 - ⚡ Fun fact: ...
   >spill oil!
+  >runing linux mint
 <!---
 rustygear29/rustygear29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
